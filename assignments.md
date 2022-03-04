@@ -7,3 +7,18 @@ Nie zaimplementowane SGD z użyciem pytorch optimizers. W funkcji  MSE brakuje 1
 ## Skin segmentation
 
 Nic nie jest zaimplementowane. 
+
+4.03.22 
+
+OK
+
+## GAN
+
+4.03.22 
+
+Problem 1 OK
+
+Problem 2
+
+Wysypuje się. 
+Tensor r też powinien być typu float32. 
